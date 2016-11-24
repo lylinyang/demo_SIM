@@ -1,7 +1,8 @@
 # demo_SIM
-A demo of shape interactive matrix based mismatch removal.
+A demo of shape interactive matrix based mismatch removal algorithm described in the paper "The Shape Interaction Matrix Based Affine Invariant Mismatch Removal for Partial Duplicated Image Search".
 
 Run the demoSIM.m to see a simple demo of our method on synthetic data.
+
 #Authors
 By Yang Lin, [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm), and [Hongbin Zha](http://www.cis.pku.edu.cn/vision/Visual%26Robot/people/zha%20hongbin/zha%20hongbin.htm)
 
